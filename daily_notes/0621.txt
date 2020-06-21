@@ -1,0 +1,36 @@
+- Read TIE to find some samples with co-first authors and co-Corresponding authors
+    - contributed equally or Corresponding author
+    - 2020 Iusse 1
+        - Multiobjective Optimization of a Double-Side Linear Vernier PM Motor Using Response Surface Method and Differential Evolution
+        - *C: 
+            - Design and Analysis of Novel Asymmetric-Stator-Pole Flux Reversal PM Machine
+            - Single-Stage High-Efficiency 48/1 V Sigma Converter With Integrated Magnetics
+            - A Two-Stage Synchronous Vibration Control for Magnetically Suspended Rotor System in the Full Speed Range
+            - Decoupling Finger Joint Motion in an Exoskeletal Hand: A Design for Robot-Assisted Rehabilitation
+        - *F
+            - Soft Haptic Actuator Based on Knitted PVC Gel Fabric
+    - 2020 Issue2
+        - An Optimal Compensation Method of Shunt Active Power Filters for System-Wide Voltage Quality Improvement
+        - *C；
+            - Analysis and Design of Phase-Shift Pulse-Frequency-Modulated Full-Bridge LCC Resonant Converter
+    - 2020 Issue3
+        - Bayesian Deep-Learning-Based Health Prognostics Toward Prognostics Uncertainty
+        - *C:
+            - The Relationship Between Root Locus and Transient Field Components of AC Machines
+            - A Four-Quadrant Single-Phase Grid-Connected Converter With Only Two High-Frequency Switches
+            - Blind Multiple-Input Multiple-Output Image Phase Retrieval
+            - Event-Triggered Adaptive Attitude Tracking Control for Spacecraft With Unknown Actuator Faults
+            - Probabilistic Monitoring of Correlated Sensors for Nonlinear Processes in State Space
+    - 2020 Issue4
+        - *F
+            - Nanorobotic Manipulation System for 360◦ Characterization Atomic Force Microscopy
+        - *C:
+    - 2020 Issue5:
+        - Design and Optimization of a Novel Dual-Port Linear Generator for Oceanic Wave Energy Conversion
+        - *F 
+            - Control of a Soft Inchworm Robot With Environment Adaptation
+        - *C
+            - Adaptive Fuzzy Tracking Control of Flexible-Joint Robots Based on Command Filtering
+            - Performance Enhancement of RCS and Application to Tracking Control of Chuck-Workpiece Systems
+            - Experimental Evaluation of Transformer Internal Fault Detection Based on V–I Characteristics
+            - Analysis and Design of the Stewart Platform-Based Parallel Support Bumper for Inertially Stabilized Platforms

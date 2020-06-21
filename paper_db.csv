@@ -1,0 +1,8 @@
+Index,Year,Source,Name,Keywords,Time
+0,2020,ICCAD,PABO: Pseudo Agent-Based Multi-Objective Bayesian Hyperparameter Optimization for Efficient Neural Accelerator Design,BO,2020-06-16
+1,2018,arXiv,A Tutorial on Bayesian Optimization,"BO,Survey",2020-06-16
+2,2018,Proceedings of the IEEE,Customizable Computing From Single Chip to Datacenters,"customizable  computiing, datacenters",2020-06-21
+3,2016,ISCA,Automatic Generation of Efficient Accelerators for Reconfigurable Hardware,"automatic generation, HLS",2020-06-21
+4,2020,TIE,Multiobjective Optimization of a Double-Side Linear Vernier PM Motor Using Response Surface Method and Differential Evolution,"moo, motor design",2020-06-21
+5,2020,TIE,Design and Optimization of a Novel Dual-Port Linear Generator for Oceanic Wave Energy Conversion,"optimization, linear generator",2020-06-21
+6,2020,FPGA,AutoDNNchip: An Automated DNN Chip Predictor and Builder for Both FPGAs and ASICs,autoDNNchip,2020-06-21

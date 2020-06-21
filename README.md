@@ -1,2 +1,3 @@
 # DailyThings
-Everyday's note!
+
+Keep going!
