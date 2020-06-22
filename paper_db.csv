@@ -6,3 +6,7 @@ Index,Year,Source,Name,Keywords,Time
 4,2020,TIE,Multiobjective Optimization of a Double-Side Linear Vernier PM Motor Using Response Surface Method and Differential Evolution,"moo, motor design",2020-06-21
 5,2020,TIE,Design and Optimization of a Novel Dual-Port Linear Generator for Oceanic Wave Energy Conversion,"optimization, linear generator",2020-06-21
 6,2020,FPGA,AutoDNNchip: An Automated DNN Chip Predictor and Builder for Both FPGAs and ASICs,autoDNNchip,2020-06-21
+7,2020,ASPDAC,Towards Area-Efficient Optical Neural Networks: An FFT-based Architecture,"onn, fft-onn",2020-06-22
+8,2020,DATE,ROQ: A Noise-Aware Quantization Scheme Towards Robust Optical Neural Networks with Low-bit Controls,"onn,noise-aware quantization",2020-06-22
+9,2018,ICLRW,Efficient Recurrent Neural Networks using Structured Matrices in FPGAs,strctured neural network,2020-06-22
+10,2017,ICML,Theoretical properties for neural networks with weight matrices of low displacement rank,"strctured weight matrices, ml compressing",2020-06-22
